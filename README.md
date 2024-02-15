@@ -18,7 +18,7 @@ The output contains two files: 1) a gltf/glb file (which can be visualized with 
 There are three point cloud datasets that have been used for this project: 1) Cheltenham Spa railway station in Victoria (Australia); 2) Research Center for Telecommunication Technologies in the University of Vigo (Spain); 3) The building of the School of Mining and Energy Engineering in the University of Vigo (Spain). The point clouds cover cover not only the indoor environments but also the indoor-outdoor transitional space that connects the roads and the entrances. <be >
 
 
-#### results
+#### Results
 data | Voxel model                |  IndoorGML model
 :---------------:|:-------------------------:|:-------------------------:
 data1 | <img width="300" height="250"   src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/tspace_withts_noroute_noroof_au.png" /> | <img width="300" height="250"  src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/indoorgml_au2.png" />
