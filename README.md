@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the Python codes generated from the ISPRS Scientific Initiatives project **Integrating IndoorGML with outdoors: Automatic routing graph generation for indoor‐outdoor transitional space for seamless navigation** (https://www.isprs.org/news/announcements/details.aspx?ID=314). In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor environments and indoor networks. If you use any of our codes or data for your research, please cite the following papers:
+This repository contains the Python codes generated from the ISPRS Scientific Initiatives project [**Integrating IndoorGML with outdoors: Automatic routing graph generation for indoor‐outdoor transitional space for seamless navigation**] (https://www.isprs.org/news/announcements/details.aspx?ID=314). In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor environments and indoor networks. If you use any of our codes or data for your research, please cite the following papers:
 
 *Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., & Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 10, 487-492.*
 
@@ -9,6 +9,7 @@ The main Python file is
 VoxelModelBuilder.py
 ```
 You need to specify the txt file, which contains the point cloud data in the following format (lng, lat, height, label).
+The output contains two files: 1) a gltf/glb file (which can be visualized with https://github.khronos.org/glTF-Sample-Viewer-Release/); 2) an indoorgml file (which can be visualized with IndoorGML viewer https://github.com/STEMLab/InViewer-Desktop).
 
 #### Data and method 
 There are three point cloud datasets that have been used for this project: 1) Cheltenham Spa railway station in Victoria (Australia); 2) Research Center for Telecommunication Technologies in the University of Vigo (Spain); 3) The building of the School of Mining and Energy Engineering in the University of Vigo (Spain). The point clouds cover cover not only the indoor environments but also the indoor-outdoor transitional space that connects the roads and the entrances. <be >
