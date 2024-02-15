@@ -3,11 +3,18 @@ This repository contains the Python codes generated from the ISPRS Scientific In
 
 *Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., & Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 10, 487-492.*
 
+#### Usage
+The main Python file is 
+```
+VoxelModelBuilder.py
+```
+You need to specify the txt file, which contains the point cloud data in the following format (lng, lat, height, label).
+
 #### Data and method 
 There are three point cloud datasets that have been used for this project: 1) Cheltenham Spa railway station in Victoria (Australia); 2) Research Center for Telecommunication Technologies in the University of Vigo (Spain); 3) The building of the School of Mining and Energy Engineering in the University of Vigo (Spain). The point clouds cover cover not only the indoor environments but also the indoor-outdoor transitional space that connects the roads and the entrances. <be >
 
 
-##### results
+#### results
 data | Voxel model                |  IndoorGML model
 :---------------:|:-------------------------:|:-------------------------:
 data1 | <img width="300" height="250"   src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/tspace_withts_noroute_noroof_au.png" /> | <img width="300" height="250"  src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/indoorgml_au2.png" />
