@@ -1,5 +1,8 @@
 # Introduction
-This repository contains the Python codes generated from the ISPRS Scientific Initiatives project [**Integrating IndoorGML with outdoors: Automatic routing graph generation for indoor‐outdoor transitional space for seamless navigation**](https://www.isprs.org/news/announcements/details.aspx?ID=314). In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor environments and indoor networks. If you use any of our codes or data for your research, please cite the following papers:
+This repository contains the Python codes generated from the ISPRS Scientific Initiatives project [**Integrating IndoorGML with outdoors: Automatic routing graph generation for indoor‐outdoor transitional space for seamless navigation**](https://www.isprs.org/news/announcements/details.aspx?ID=314). In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor environments and indoor networks. 
+
+#### Citation
+If you use any of our codes or data for your research, please cite the following papers:
 
 *Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., & Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 10, 487-492.*
 
