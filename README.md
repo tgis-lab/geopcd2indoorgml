@@ -7,7 +7,7 @@ This repository contains the python codes generated from the ISPRS Scientific In
 There are three point cloud datasets that have been used for this project: 1) Cheltenham Spa railway station in Victoria (Australia); 2) Research Center for Telecommunication Technologies in the University of Vigo (Spain); 3) The building of the School of Mining and Energy Engineering in the University of Vigo (Spain). The point clouds cover cover not only the indoor environments but also the indoor-outdoor transitional space that connects the roads and the entrances. <br >
 
 
-    Voxel model |  IndoorGML model
+Voxel model                |  IndoorGML model
 :-------------------------:|:-------------------------:
 <img width="600" height="500"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="500"   src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
 photo from https://unsplash.com/ |  photo from https://unsplash.com/ 
