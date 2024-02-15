@@ -9,7 +9,7 @@ There are three point cloud datasets that have been used for this project: 1) Ch
 
 data | Voxel model                |  IndoorGML model
 :---------------:|:-------------------------:|:-------------------------:
-data1 | <img width="300" height="250"   src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/tspace_withts_noroute_noroof_au.png" /> | <img width="600" height="500"  src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/indoorgml_au2.png" />
-data2 |<img width="300" height="250"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="500"   src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
-data3 |<img width="600" height="500"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="500"   src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
+data1 | <img width="300" height="250"   src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/tspace_withts_noroute_noroof_au.png" /> | <img width="300" height="250"  src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/indoorgml_au2.png" />
+data2 |<img width="300" height="250"  src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/tspace_withts_noroute_noroof_minas.png" /> |  <img width="300" height="250"   src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/indoorgml_minas2.png" />
+data3 |<img width="300" height="250"  src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/tspace_withts_noroute_noroof_teleco.png" /> |  <img width="300" height="250"   src="https://github.com/tgis-lab/pointcloud-to-indoorgml/blob/main/fig/indoorgml_teleco.png" />
 
